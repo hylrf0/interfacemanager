@@ -24,7 +24,7 @@
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"/>
         <property name="basePackage" value="lrf.dao" />
-		<property name="annotationClass" value="mydemo.common.annotation.MyBatisRepository" />
+		<property name="annotationClass" value="com.cbzj.common.annotation.MyBatisRepository" />
 	</bean>
 
 </beans>
