@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/interfacemanager.iml" filepath="$PROJECT_DIR$/interfacemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfacemanager.common/interfacemanager.common.iml" filepath="$PROJECT_DIR$/interfacemanager.common/interfacemanager.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfacemanager.dao/interfacemanager.dao.iml" filepath="$PROJECT_DIR$/interfacemanager.dao/interfacemanager.dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfacemanager.service/interfacemanager.service.iml" filepath="$PROJECT_DIR$/interfacemanager.service/interfacemanager.service.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfacemanager.web/interfacemanager.web.iml" filepath="$PROJECT_DIR$/interfacemanager.web/interfacemanager.web.iml" />
     </modules>
   </component>

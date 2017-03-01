@@ -6,12 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="interfacemanager.common" />
+        <module name="interfacemanager.dao" />
+        <module name="interfacemanager.service" />
         <module name="interfacemanager.web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="interfacemanager" target="1.5" />
-      <module name="interfacemanager.web" target="1.5" />
+      <module name="interfacemanager" target="1.7" />
+      <module name="interfacemanager.common" target="1.7" />
+      <module name="interfacemanager.dao" target="1.7" />
+      <module name="interfacemanager.service" target="1.7" />
+      <module name="interfacemanager.web" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
