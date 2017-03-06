@@ -9,7 +9,8 @@
 <html>
 <head>
     <title>Title</title>
-    <script src="./js/vue.js"></script>
+    <jsp:include page="jsp/include.jsp" />
+    <jsp:include page="jsp/sidebar.jsp" />
 </head>
 <body>
     <div id="app">
